@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAEP_vitor", "SAEP_vitor\SAEP_vitor.csproj", "{30DBC21D-96EE-4E52-92CA-90842978BCD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30DBC21D-96EE-4E52-92CA-90842978BCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30DBC21D-96EE-4E52-92CA-90842978BCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30DBC21D-96EE-4E52-92CA-90842978BCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30DBC21D-96EE-4E52-92CA-90842978BCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06A648B2-D130-4FB3-90E8-717EAC841EEE}
+	EndGlobalSection
+EndGlobal
